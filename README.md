@@ -25,3 +25,7 @@ Just another Aryan
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsaryanchauhan&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsaryanchauhan&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsaryanchauhan&theme=dark)
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@itsaryanchauhan/30-nites-of-code)  
+  ![@itsaryanchauhan #30NitesOfCode](https://www.codedex.io/api/petStatus?user=itsaryanchauhan)

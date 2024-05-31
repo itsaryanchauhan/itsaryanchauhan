@@ -29,3 +29,6 @@ Just another Aryan
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@itsaryanchauhan/30-nites-of-code)  
   ![@itsaryanchauhan #30NitesOfCode](https://www.codedex.io/api/petStatus?user=itsaryanchauhan)
+
+
+[![itsaryanchauhan's GitHub | Stats](https://stats.quine.sh/itsaryanchauhan/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=itsaryanchauhan)

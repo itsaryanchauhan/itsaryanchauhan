@@ -128,13 +128,11 @@ I am a **Computer Science** student at Maharaja Agrasen Institute of Technology 
 <br>
 
 <!-- Visitor Counter -->
-<br>
+<br />
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/itsaryanchauhan/count.svg">
-    <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
+    <img src="https://komarev.com/ghpvc/?username=itsaryanchauhan&color=blueviolet" alt="Profile views" />
 </div>
-<br>
-<br>
+<br />
+<br />
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">

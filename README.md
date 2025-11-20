@@ -13,7 +13,7 @@ I learn by breaking things apart to understand how they work.<br/>
 <a href="https://www.linkedin.com/in/itsaryanchauhan/">
   <img src="https://img.shields.io/badge/-@itsaryanchauhan-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn" alt="LinkedIn Badge" />
 </a>
-<a href="https://dev.to">
+<a href="https://dev.to/itsaryanchauhan">
   <img src="https://img.shields.io/badge/-dev.to-0A0A0A?style=flat-square&labelColor=0A0A0A&logo=dev.to" alt="Dev.to Badge" />
 </a>
 </p>

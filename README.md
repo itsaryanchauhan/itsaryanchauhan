@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm <a href="https://itsaryanchauhan.framer.website">Aryan</a></h2>
+<h2>Hey 👋, I'm <a href="https://itsaryan.tech">Aryan</a></h2>
 
 <p>
 I’m a <strong>Software Engineer & Student</strong> based in 🇮🇳 India.<br/>
@@ -7,8 +7,8 @@ I learn by breaking things apart to understand how they work.<br/>
 </p>
 
 <p>
-<a href="https://itsaryanchauhan.framer.website">
-  <img src="https://img.shields.io/badge/-itsaryanchauhan.framer.website-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox" alt="Website Badge" />
+<a href="https://itsaryan.tech">
+  <img src="https://img.shields.io/badge/-itsaryan.tech-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox" alt="Website Badge" />
 </a>
 <a href="https://www.linkedin.com/in/itsaryanchauhan/">
   <img src="https://img.shields.io/badge/-@itsaryanchauhan-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn" alt="LinkedIn Badge" />

@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  <a href="https://its-aryan.me"><img src="https://img.shields.io/badge/-its-aryan.me-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&logoColor=white" alt="Website" /></a>&nbsp;
+  <a href="https://its-aryan.me"><img src="https://img.shields.io/badge/its-aryan.me-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox&logoColor=white" alt="Website" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/itsaryanchauhan/"><img src="https://img.shields.io/badge/-@itsaryanchauhan-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>&nbsp;
   <a href="https://x.com/devnullcoded"><img src="https://img.shields.io/badge/-@devnullcoded-000000?style=flat-square&labelColor=000000&logo=x&logoColor=white" alt="X / Twitter" /></a>&nbsp;
   <a href="https://dev.to/itsaryanchauhan"><img src="https://img.shields.io/badge/-dev.to-0A0A0A?style=flat-square&labelColor=0A0A0A&logo=dev.to&logoColor=white" alt="Dev.to" /></a>
